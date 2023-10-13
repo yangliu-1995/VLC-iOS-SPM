@@ -8,8 +8,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobileVLCKit",
-            url: "https://test-vlc.s3.eu-central-1.amazonaws.com/MobileVLCKit.xcframework.zip",
-            checksum: "32a644ffac74eb2d423c148509df7c2cbcfc311e085ad074632eed22826b456b"
+            url: "https://github.com/yangliu-1995/VLC-iOS-SPM/releases/download/1.3.6.0b10/MobileVLCKit.xcframework.zip",
+            checksum: "18f24566c84614eec10a59baafed0ea03d450493b8d0c74052b3034538a064ab"
         ),
     ]
 )
